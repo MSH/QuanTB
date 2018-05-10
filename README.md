@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ﻿<img src="Logos/SIAPS_Name%2BUSAID.Horz.png" width="150"> &nbsp;&nbsp; <img src="Logos/MSH_4c.png" width="75">
-=======
-![USAID Logo](https://www.usaid.gov/sites/all/themes/usaid/logo.png)
->>>>>>> b8a1b6b9f110dca727d82637ec782824804631d1
+
 # QuanTB
 The SIAPS Program is funded by the U.S. Agency for International Development (USAID) under cooperative agreement AID-OAA-A-11-00021 and implemented by Management Sciences for Health. The information provided on this web site is not official U.S. Government information and does not represent the views or positions of the U.S. Agency for International Development or the U.S. Government. 
 
@@ -16,4 +13,4 @@ The QuanTB software, documentation and other products, information, materials an
 
 Copyright Management Sciences for Health.
 
-See the [QuanTB_Build_Instructions.pdf] file for information on how to build the software.
+See the [https://github.com/MSH/QuanTB/blob/devel/QuanTB_Build_Instructions.pdf] file for information on how to build the software.
