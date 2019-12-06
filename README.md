@@ -3,9 +3,7 @@
 # QuanTB
 The SIAPS Program is funded by the U.S. Agency for International Development (USAID) under cooperative agreement AID-OAA-A-11-00021 and implemented by Management Sciences for Health. The information provided on this web site is not official U.S. Government information and does not represent the views or positions of the U.S. Agency for International Development or the U.S. Government. 
 
-You can download a ready-to-use copy of the program from [http://www.msh.org/resources/quantb]
-
-For more information, contact phtmis@msh.org
+For more information, contact digital@msh.org
 
 Disclaimer of warranties and limitation of liability
 
